@@ -91,9 +91,9 @@ function orderItem(itemID){
 </head>
 <table class="headerTable">
 	<tr>
-		<!-->
+		<!--
                 <td><img src="/images/Fronalpstock_big.jpg" width="30" height="30" /></td>
-                <-->
+                -->
 		<td><span class="pageTitle"><h1>Microservices Sample</h1></span></td> 
 	</tr>
 </table>
