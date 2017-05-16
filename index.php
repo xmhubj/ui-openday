@@ -85,12 +85,13 @@ function orderItem(itemID){
 </script>
 <html>
 <head>
-	<title>Microservices Sample</title>
+	<title>OpenDay Demo</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 	<link rel="stylesheet" href="style.css">
 </head>
 <table class="headerTable">
 	<tr>
+		<td><img src="/images/Fronalpstock_big.jpg" width="30" height="30" /></td>
 		<td><span class="pageTitle"><h1>Microservices Sample</h1></span></td> 
 	</tr>
 </table>
